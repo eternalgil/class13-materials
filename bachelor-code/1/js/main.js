@@ -1,4 +1,4 @@
-document.querySelector('#finalRose').addEventListener('click', /*INSERTCODE*/)
+document.querySelector("#finalRose").addEventListener('onclick', hide);
 
 function hide(){
 	document.querySelector('#nikki').style.display = 'none'
